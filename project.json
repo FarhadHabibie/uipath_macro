@@ -1,5 +1,5 @@
 {
-  "name": "uipath",
+  "name": "macro_uipath",
   "description": "Blank Process",
   "main": "uipath_macro.xaml",
   "dependencies": {
